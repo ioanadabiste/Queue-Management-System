@@ -1,5 +1,4 @@
 # Queue-Management-System
-#  Queue Management System – Java  
 
 A simulation-based **Queue Management System** built in **Java**, designed to model and optimize how clients are distributed across multiple queues using various strategies.  
 
